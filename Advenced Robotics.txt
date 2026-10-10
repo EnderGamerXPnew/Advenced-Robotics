@@ -1,0 +1,29 @@
+More-mon et un datapack donc va dans le dossier datapack du monde et en dezip
+
+on peut utilisé un block de magma entouré de block d'amnétisme pour faire grandir plus vite une pousse de tardis
+
+le terraformeur utilisé comme première étape pour rendre le tardis exploitable, il et activé en le placent au dessus d'un block de redstonne entouré par des blocks de cuivres
+il et déclencher avec le click droit du tournevis d'amnétisme ou plus connue sous le nom de tournevis sonic
+
+les piller d'argot se place sur les block d'emplacement vers uniquement par quatre !!! dans la chambre du réacteur afin de permettre la recharge du carburant controler
+par le compteur de carburant sur la consol donc click-droit
+
+un villagoie peut être spétialisé en pilote de tardis sont block de proffession et la consol de control du tardis et il permet de stabilisé automatiquement le tardis
+quand payée évidament
+
+ne jamais utilisé un attachement mo mincraft sur un wagon railcraft !!! ex utilisé un ressort sur un worldspike qui de plus sert de chunkloader
+utilisé des intermédaire à la place, si le pire et arriver chercher ou suprimer les entité conflictuel dans votre dossier de dimension
+dans votre dossier monde ex entities %appdata%/.minecraft/save/nouveau monde/dimension/tardis_refined/"l'id de votre tardis"/entities/"l'entité buggé faire des test"
+
+c'est aussi ici que vous pouver suprimer correctement votre tardis en vous débarrasent du dossier
+
+il exist aussi un dossier data dans lequelle suprimer les fichier rénitiallisera les donné intengible des mods comme la limite de bateau chunkloader little logistic
+
+le seul multiblock sans aide, le télèporteur mekanism se construit avec un espace de 1 de largeur et 2 de hauteur contrairement au portail indiqué par le blocks
+qui et basé sur selui du nether mais impossible d'utilisé en format multiblock modulaire
+
+la transmission des véicules unu se trouve en dessous du moteur
+
+les multiblocks mekanism générator et plus particulièrement les turbine peuve prendre suffisament de ressource pour temporairement corrompre le pilote du clavier
+veuiller redémarré votre pc si sela arrive pour vous débloquer laisser appuyer longtemps le bouton échape pour ouvrir le menu du jeux les entré étant en delai
+si vous faite du 128*128*128 donc évité de contruire simultanémé le stockage et la production d'énergie pour le spatial storage
