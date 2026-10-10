@@ -1,0 +1,2 @@
+craftingTable.addShapeless("custom", <item:mts:mts.paintgun> * 1, 
+[<item:mts:unuparts.unuparts_part_unu_accessory_canvastop>, <item:mts:unuparts.unuparts_part_unu_accessory_fenderskirt>, <item:mts:unuparts.unuparts_part_unu_accessory_hardtop>, <item:mts:unuparts.unuparts_part_unu_accessory_visor>, <item:mts:unuparts.unuparts_part_unu_accessory_radio>, <item:mts:unuparts.unuparts_part_unu_accessory_door>]);
